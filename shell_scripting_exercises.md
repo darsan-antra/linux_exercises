@@ -53,3 +53,6 @@ Pattern
         Memory information
         File system information
         Currently running process
+
+
+Reference: https://www.emertxe.com/embedded-systems/linux-systems/ls-assignments/#
