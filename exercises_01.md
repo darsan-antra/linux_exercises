@@ -22,7 +22,7 @@ bash script-q2.sh
 touch empty.txt
 ```
 
-4. You are in /home/icipe/  suppose this directory is empty. How do you create in only one command the whole path /home/icipe/Work/mini-project/RNA-Seq/?
+4. You are in /home/antra/  suppose this directory is empty. How do you create in only one command the whole path /home/antra/Work/mini-project/RNA-Seq/?
 
 ```bash
 mkdir -p Work/mini-project/RNA-Seq/
@@ -140,7 +140,7 @@ bash doesn't have a way to trap divisions by zero but can divide by other intege
 echo output 1> standardoutput.log
 echo errors 2> standarderrors.log
 ```
-19. Suppose your current working directory is /home/icipe/Linux/Exercises/. What is the command that will enable to move to /home/icipe/Fun_stuff/?
+19. Suppose your current working directory is /home/antra/Linux/Exercises/. What is the command that will enable to move to /home/antra/Fun_stuff/?
 
 ```bash
 cd ../../Fun_stuff/
